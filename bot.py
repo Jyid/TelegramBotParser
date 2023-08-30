@@ -20,7 +20,7 @@ dp = Dispatcher(bot, storage=storage)
 DB_HOST = 'localhost'
 DB_PORT = 5432
 DB_USER = 'postgres'
-DB_PASSWORD = 'at22bd43tw'
+DB_PASSWORD = 'any'
 DB_NAME = 'postgres'
 
 
